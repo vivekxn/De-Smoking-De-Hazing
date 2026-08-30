@@ -1,4 +1,4 @@
-# 🚨 ClearVision AI — De-Smoking & De-Hazing
+# 🚨 ClearVision — De-Smoking & De-Hazing
 
 > **See through smoke. See through haze. Recover the view.**
 
